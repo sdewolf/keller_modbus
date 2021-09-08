@@ -24,4 +24,3 @@ plt.ylabel('Temperature ($^\circ$C)')
 
 plt.show()
 
-# here's a comment
